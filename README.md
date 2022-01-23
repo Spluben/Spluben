@@ -1,4 +1,7 @@
+#Spluben 
+
 ### Hi there 👋
+My name is Daniel also known as Spluben and this is my Github page. On here i will upload projects related to webb developement. 
 
 <!--
 **Spluben/Spluben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
